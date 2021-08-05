@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: coral;
+}
+
+#p1 {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+#p2 {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+#p3 {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+#p4 {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+#p5 {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+#MyWork a{
+    color: deepskyblue!important;
+}
+
+.hope {
+    display: inline;
+    padding: 10px;
+}
+
+#plus {
+    font-family: "Dancing Script";
+    font-size: 35px;
+}
+
+.hope:hover {
+    background-color: gold;
+    text-decoration: underline;
+    position:relative;
+}
+
+#contact i{
+    color:#FFFFFF;
+}
